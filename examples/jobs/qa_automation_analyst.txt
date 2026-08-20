@@ -1,0 +1,23 @@
+Job Title: QA Analyst / Automation Specialist
+Company: NovaSync Digital Labs
+Location: Remote (US)
+Employment Type: Full-Time
+
+About the Role:
+NovaSync Digital Labs is seeking a detail-oriented QA Analyst / Automation Specialist to join our high-velocity software engineering group. In this role, you will be responsible for ensuring our enterprise software products meet rigorous performance, quality, and security standards before release.
+
+Key Responsibilities:
+- Design, execute, and maintain end-to-end functional, regression, and API test cases for web and cloud-based enterprise platforms.
+- Work closely with software developers, product managers, and business analysts in bi-weekly Agile/Scrum sprints.
+- Perform root-cause analysis on production anomalies, logging detailed bug reports with reproducible steps in JIRA.
+- Champion automated testing practices and scripting (Python, Bash, Postman) to streamline regression cycles.
+- Verify system configuration profiles and ensure zero defect leakage into production environments.
+- Provide comprehensive test execution summaries and metrics to stakeholders prior to major releases.
+
+Required Qualifications:
+- 3+ years of experience in Software Quality Assurance, Functional Testing, and Regression Test Planning.
+- Solid understanding of Agile/Scrum methodologies, sprint grooming, and JIRA issue tracking.
+- Experience with API testing using tools like Postman, cURL, or Python scripts.
+- Proficiency with Linux CLI, Git version control, and CI/CD pipelines.
+- Exceptional written communication skills for writing technical specs, bug reports, and test documentation.
+- Self-starter mindset with demonstrated passion for technical troubleshooting and systems optimization.

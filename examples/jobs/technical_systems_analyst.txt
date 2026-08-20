@@ -1,0 +1,23 @@
+Job Title: Technical Systems Analyst / Configuration Specialist
+Company: Apex Cloud Infrastructure
+Location: Remote / Atlanta, GA
+Employment Type: Full-Time
+
+About the Role:
+Apex Cloud Infrastructure is looking for a Technical Systems Analyst to bridge the gap between enterprise clients, product architecture, and engineering execution. You will configure, deploy, and validate complex software systems and ensure optimal client configuration stability.
+
+Key Responsibilities:
+- Serve as the primary technical interface between executive client stakeholders, solution architects, and engineering teams.
+- Create, validate, and manage technical configuration profiles and system parameters for enterprise client deployments.
+- Conduct technical requirements gathering and translate business logic into unambiguous system specifications.
+- Lead sprint feature grooming, complexity assessments, and release verification in Agile environments.
+- Troubleshoot complex configuration mismatches, API endpoints, and system integration anomalies.
+- Develop standard operating procedures (SOPs), system runbooks, and technical documentation.
+
+Required Qualifications:
+- 3+ years in a Technical Analyst, Systems Specialist, or Software Configuration role.
+- Strong analytical skills in translating business requirements into technical system parameters.
+- Familiarity with enterprise software configuration, JSON/YAML data structures, and REST APIs.
+- Experience operating in fast-paced Agile/Scrum development cycles.
+- Proficiency with Linux environments, command line tools, and Git.
+- Outstanding verbal and written communication abilities.

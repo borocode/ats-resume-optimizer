@@ -1,0 +1,17 @@
+# Environment Variables
+.env
+.env.local
+*.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Generated Outputs
+tailored_resume.md
+applications_log.txt
