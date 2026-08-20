@@ -12,7 +12,7 @@
 
 # Rishad Haque
 **QA Analyst & Technical Systems Specialist**  
-📍 Atlanta, GA (Open to Remote) | 📧 rishad@boroghor.com | 🌐 [boroghor.com](https://boroghor.com) | 💻 [github.com/borocode](https://github.com/borocode)
+📍 Atlanta, GA (Open to Remote) | 📧 rishad@rishadhaque.com | 🌐 [rishadhaque.com](https://rishadhaque.com) | 💻 [github.com/borocode](https://github.com/borocode)
 
 ---
 

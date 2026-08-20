@@ -55,7 +55,7 @@ python optimizer.py --resume my_master_resume.md --job target_job_description.tx
 
 ### 4. Generate Follow-Up Email & Log Application
 ```bash
-python followup.py --company "NovaSync Digital Labs" --role "QA Analyst" --name "Rishad Haque" --email "rishad@boroghor.com" --log
+python followup.py --company "NovaSync Digital Labs" --role "QA Analyst" --name "Rishad Haque" --email "rishad@rishadhaque.com" --log
 ```
 
 ---

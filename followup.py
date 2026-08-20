@@ -37,7 +37,7 @@ def main():
     parser.add_argument("--company", "-c", required=True, help="Target company name (e.g. Acme Corp)")
     parser.add_argument("--role", "-r", default="Technical Analyst / QA Engineer", help="Role title applied for")
     parser.add_argument("--name", "-n", default="Rishad Haque", help="Candidate full name")
-    parser.add_argument("--email", "-e", default="rishad@boroghor.com", help="Candidate contact email")
+    parser.add_argument("--email", "-e", default="rishad@rishadhaque.com", help="Candidate contact email")
     parser.add_argument("--phone", "-p", default="", help="Candidate contact phone (optional)")
     parser.add_argument("--log", "-l", action="store_true", help="Log application submission to applications_log.txt")
     
