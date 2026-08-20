@@ -1,38 +1,38 @@
-# Alex "Boro" Rahman
+# Rishad Haque
 **Technical Systems Analyst & QA Specialist**  
-📍 Atlanta, GA (Open to Remote) | 📧 alex@boroghor.com | 🌐 [boroghor.com](https://boroghor.com) | 💻 [github.com/borocode](https://github.com/borocode)
+📍 Atlanta, GA (Open to Remote) | 📧 rishad@boroghor.com | 🌐 [boroghor.com](https://boroghor.com) | 💻 [github.com/borocode](https://github.com/borocode)
 
 ---
 
 ## 🎯 Executive Summary
-Experienced **Technical Systems Analyst** and **QA Specialist** with proven expertise in enterprise configuration management, agile software delivery, cross-functional stakeholder communication, and sovereign high-availability infrastructure. Adept at translating complex product requirements into resilient software configurations, designing regression test suites, and managing mission-critical technical operations.
+Experienced **Technical Systems Analyst** and **QA Specialist** with proven expertise in enterprise configuration management, Agile software delivery, cross-functional stakeholder communication, and sovereign high-availability infrastructure. Adept at translating complex product requirements into resilient software configurations, designing regression test suites, and managing mission-critical technical operations.
 
 ---
 
 ## 💼 Professional Experience
 
-### **Senior Technical Systems Analyst**  
-**HealthTech Horizon Corp** *(Brooklyn, NY — Remote from Atlanta, GA)*  
+### **Technical Analyst / Software Consultant**  
+**Zipari** *(Brooklyn, NY — Remote from Atlanta, GA)*  
 *March 2020 – Present*
 - Act as the central technical liaison between enterprise business stakeholders and engineering teams, translating high-level business logic into verified technical specifications.
-- Architect, maintain, and audit detailed configuration profiles for enterprise-grade consumer software platforms.
+- Architect, maintain, and audit detailed configuration profiles for enterprise-grade consumer healthcare software platforms.
 - Drive bi-weekly Agile sprint cycles, conducting technical grooming, ticket complexity estimation, and quality-assured release validation.
 - Champion continuous improvement in documentation standards, creating runbooks and verification workflows that reduced deployment misconfigurations.
 
-### **Lead QA & Software Consultant**  
-**Apex Velocity Software** *(Atlanta, GA)*  
+### **QA / Software Consultant**  
+**Hatchworks** *(Atlanta, GA)*  
 *June 2019 – March 2020*
 - Led end-to-end quality assurance for mission-critical digital healthcare platforms, ensuring strict data integrity and compliance.
 - Designed, executed, and maintained comprehensive manual and automated test suites, catching critical regressions and API integration bugs before production.
-- Took 100% sole ownership of the testing pipeline for a 3-month high-stakes project milestone, successfully achieving zero high-severity production defects.
+- Took 100% sole ownership of the testing pipeline as the only tester on the project for a 3-month high-stakes milestone, successfully achieving zero high-severity production defects.
 - Collaborated daily in Agile/Scrum standups, providing real-time test coverage updates and defect triage matrices to product managers.
 
-### **Technical Operations & Asset Management Lead**  
-**Metro Property & Real Estate Group** *(Atlanta, GA)*  
+### **Office Manager / Technical Operations & Sales Agent**  
+**Metro Homes Realty / Chapman Hall Realtors** *(Atlanta, GA)*  
 *January 2013 – Present*
 - Spearheaded contract workflows, digital document integrity pipelines, and multi-party technical communication between clients, lenders, and brokers.
 - Administered internal hardware, local network routing, data backups, and technical support protocols across the brokerage.
-- Managed and closed complex real estate transactions end-to-end with high attention to compliance and legal accuracy.
+- Managed and closed complex real estate transactions end-to-end with high attention to compliance and accuracy.
 
 ---
 
@@ -63,4 +63,4 @@ Experienced **Technical Systems Analyst** and **QA Specialist** with proven expe
 ## 🎓 Education & Training
 - **Georgia State University** — Coursework in Psychology & Cognitive Behavioral Systems
 - **H2kinfosys** — Intensive QA Analysis & Test Automation Certification
-- **Chamblee Magnet Program** — High School Diploma (Gifted / Magnet Program)
+- **Chamblee Charter High School** — Magnet / Gifted Program (Graduated 2011)

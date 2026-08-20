@@ -4,15 +4,15 @@
 - **Estimated Match Score:** 98/100
 - **Keywords Added / Emphasized:** Test Lifecycle, Test Case Design & Execution, Defect Logging, JIRA, Regression Testing, Functional Testing, Smoke Testing, Agile/Scrum Sprints, Traceability Matrices, API Testing, Postman, Linux CLI, Git CI/CD, SQL Data Integrity.
 - **Strategic Revisions:** 
-  - Restructured Apex Velocity bullet points to emphasize sole QA pipeline ownership and zero-defect healthcare software releases.
+  - Restructured Hatchworks experience to emphasize sole QA pipeline ownership and zero-defect healthcare software releases.
   - Aligned technical skills hierarchy with NovaSync's required stack (Postman, Linux CLI, Git, JIRA).
   - Preserved all sovereign systems projects (Bitcoin/Lightning node operations and FFmpeg streaming suites) as real-world proof of self-directed technical execution.
 
 ---
 
-# Alex "Boro" Rahman
+# Rishad Haque
 **QA Analyst & Technical Systems Specialist**  
-📍 Atlanta, GA (Open to Remote) | 📧 alex@boroghor.com | 🌐 [boroghor.com](https://boroghor.com) | 💻 [github.com/borocode](https://github.com/borocode)
+📍 Atlanta, GA (Open to Remote) | 📧 rishad@boroghor.com | 🌐 [boroghor.com](https://boroghor.com) | 💻 [github.com/borocode](https://github.com/borocode)
 
 ---
 
@@ -24,7 +24,7 @@ Detail-oriented **QA Analyst & Technical Systems Specialist** with extensive exp
 ## 💼 Professional Experience
 
 ### **Technical Analyst / QA Software Consultant**  
-**HealthTech Horizon Corp** *(Brooklyn, NY — Remote from Atlanta, GA)*  
+**Zipari** *(Brooklyn, NY — Remote from Atlanta, GA)*  
 *March 2020 – Present*
 - Managed full test lifecycle for enterprise consumer software: test planning, test case design, execution, defect logging, and results reporting across major product releases.
 - Designed and executed functional, regression, and smoke testing strategies to validate configuration accuracy and application stability before production deployment.
@@ -32,8 +32,8 @@ Detail-oriented **QA Analyst & Technical Systems Specialist** with extensive exp
 - Participated actively in sprint planning, backlog grooming, and retrospective meetings as a core technical team member.
 - Authored SQL validation queries to verify data integrity across relational backend database configurations.
 
-### **Lead QA & Software Consultant**  
-**Apex Velocity Software** *(Atlanta, GA)*  
+### **QA / Software Consultant**  
+**Hatchworks** *(Atlanta, GA)*  
 *June 2019 – March 2020*
 - Served as the sole QA Specialist on a digital healthcare software team, owning the complete test lifecycle from test plan creation through defect resolution and sign-off.
 - Designed, documented, and executed comprehensive test suites covering functional, regression, integration, and smoke testing for complex application workflows.
@@ -41,8 +41,8 @@ Detail-oriented **QA Analyst & Technical Systems Specialist** with extensive exp
 - Directed daily Scrum standups, complexity estimations, and test coverage metrics, maintaining zero critical defects at launch.
 - Took full ownership of the end-to-end QA pipeline as the only tester on the project for a 3-month period.
 
-### **Technical Operations & Asset Management Lead**  
-**Metro Property & Real Estate Group** *(Atlanta, GA)*  
+### **Office Manager / Technical Operations & Sales Agent**  
+**Metro Homes Realty / Chapman Hall Realtors** *(Atlanta, GA)*  
 *January 2013 – Present*
 - Maintained client databases, digital contract workflows, and data accuracy across high-volume real estate transaction pipelines.
 - Administered office IT hardware, local network routing, data backups, and technical support protocols.
@@ -72,4 +72,4 @@ Detail-oriented **QA Analyst & Technical Systems Specialist** with extensive exp
 ## 🎓 Education & Training
 - **Georgia State University** — Coursework in Psychology & Cognitive Behavioral Systems
 - **H2kinfosys** — Intensive QA Analysis & Test Automation Certification
-- **Chamblee Magnet Program** — High School Diploma (Gifted / Magnet Program)
+- **Chamblee Charter High School** — Magnet / Gifted Program (Graduated 2011)
