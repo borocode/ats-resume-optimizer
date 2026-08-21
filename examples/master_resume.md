@@ -13,7 +13,7 @@ Experienced **Technical Systems Analyst** and **QA Specialist** with proven expe
 
 ### **Technical Analyst / Software Consultant**  
 **Zipari** *(Brooklyn, NY — Remote from Atlanta, GA)*  
-*March 2020 – Present*
+*March 2020 – November 2021*
 - Act as the central technical liaison between enterprise business stakeholders and engineering teams, translating high-level business logic into verified technical specifications.
 - Architect, maintain, and audit detailed configuration profiles for enterprise-grade consumer healthcare software platforms.
 - Drive bi-weekly Agile sprint cycles, conducting technical grooming, ticket complexity estimation, and quality-assured release validation.
