@@ -1,0 +1,31 @@
+Job Title: Forward Deployed Engineer
+Company: Nous Research
+Location: Remote
+
+About the Role:
+As a Forward Deployed Engineer at Nous Research, you'll deploy and adapt Hermes Agent Enterprise inside complex customer environments. You'll partner directly with enterprise customers to understand their workflows, integrate internal systems, and deliver production-ready AI solutions that solve real business problems.
+You'll work across engineering, infrastructure, and customer teams to bridge the gap between cutting-edge AI research and reliable enterprise deployments. This is an ideal role for someone who enjoys solving ambiguous technical challenges, working closely with customers, and shipping high-impact solutions.
+
+Responsibilities:
+- Deploy Hermes Agent Enterprise across cloud, on-premises, and hybrid customer environments.
+- Integrate enterprise APIs, internal data sources, authentication systems, and business applications into agent workflows.
+- Partner directly with customers to scope requirements, implement solutions, and iterate based on feedback.
+- Debug and resolve production issues across infrastructure, orchestration, integrations, and AI application layers.
+- Build reusable deployment patterns, tooling, and best practices that improve implementation speed and reliability.
+- Collaborate with engineering and research teams to influence product direction based on customer needs.
+- Improve deployment observability, monitoring, and operational tooling to support production AI systems.
+- Document deployment architectures, integration guides, and customer implementation patterns.
+
+Qualifications:
+- 5+ years of software engineering or solutions engineering experience building and deploying production systems.
+- Experience working directly with enterprise customers or cross-functional stakeholders to deliver technical solutions.
+- Strong debugging skills across distributed systems, backend services, and cloud infrastructure.
+- Comfortable working across backend engineering, infrastructure, APIs, and AI application layers.
+- Excellent communication skills with the ability to translate complex technical concepts into practical customer solutions.
+- Entrepreneurial mindset with the ability to thrive in fast-moving, ambiguous environments.
+
+Preferred:
+- Experience with Docker, Kubernetes, and modern cloud infrastructure.
+- Familiarity with LLMs, AI agents, RAG systems, or model orchestration frameworks.
+- Experience integrating enterprise systems such as CRMs, data warehouses, internal APIs, or identity providers.
+- History of shipping customer-facing technical solutions in enterprise or infrastructure-focused environments.
