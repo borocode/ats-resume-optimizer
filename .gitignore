@@ -15,3 +15,17 @@ Thumbs.db
 # Generated Outputs
 tailored_resume.md
 applications_log.txt
+
+# Local secret hygiene
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secrets*
+
+*Resume.md
+*resume.md
